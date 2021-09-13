@@ -5,10 +5,10 @@ A simple game using React and reactstrap with functional approach
 
 ### Player Screen
 
-![Player Screen](/README/snap2.jpg)
+![Player Screen](/README/snap2.JPG)
  
 
 ### Winner Screen
 
-![Winner Screen](/README/snap1.jpg)
+![Winner Screen](/README/snap1.JPG)
  
